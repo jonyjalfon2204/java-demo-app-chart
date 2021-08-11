@@ -38,7 +38,7 @@ ingress:
   hosts:
     - host: 
       paths:
-      - path: /
+      - path: /java
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
